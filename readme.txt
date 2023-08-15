@@ -1,4 +1,1 @@
-hello 
-world
-welcome
-how are you
+hello
