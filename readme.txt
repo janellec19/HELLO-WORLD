@@ -3,3 +3,4 @@ is this working
 hello
 again 
 today
+now
